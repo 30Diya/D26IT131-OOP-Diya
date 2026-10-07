@@ -1,0 +1,4 @@
+INFO Application running
+WARNING Low memory
+ERROR Network failure
+INFO User logged out

@@ -1,0 +1,26 @@
+File: log1.txt
+Size: 27 bytes
+Modified: 2026-10-02T16:20:49.5398434Z
+DEPOSIT,5000
+WITHDRAW,1000
+
+File: log2.txt
+Size: 26 bytes
+Modified: 2026-10-02T16:20:49.5398434Z
+DEPOSIT,3000
+WITHDRAW,500
+
+File: transactions1.txt
+Size: 29 bytes
+Modified: 2026-10-02T13:56:56.891652Z
+DEPOSIT,5000
+WITHDRAW,1000
+
+File: transactions2.txt
+Size: 28 bytes
+Modified: 2026-10-02T13:56:56.8932442Z
+DEPOSIT,3000
+WITHDRAW,500
+
+Total Deposits: 16000
+Total Withdrawals: 3000
